@@ -23,6 +23,7 @@
         'wp_signin',
         'pico-content',
         'pico-overlay',
+        'adblocker-root',
         'meter-paywall'
     ];
 
